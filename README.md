@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ## Project Overview
-This is a Flask-based portfolio website that showcases various projects and skills of the developer. It serves as a personal space to present work, share ideas, and connect with others.
+This is my Flask-based portfolio website repository that showcases various projects and skills of the developer. It serves as a personal space to present and update my works, share ideas, and connect with others.
 
 ## Features
 - Responsive design
@@ -11,9 +11,9 @@ This is a Flask-based portfolio website that showcases various projects and skil
 
 ## Tech Stack
 - **Front-end:** HTML5, CSS3, JavaScript, Bootstrap
-- **Back-end:** Flask, SQLAlchemy
+- **Back-end:** Flask, Python
 - **Database:** SQLite
-- **Hosting:** Heroku or any other cloud provider
+- **Hosting:** Any cloud provider
 
 ## Installation Instructions
 1. Clone the repository:
