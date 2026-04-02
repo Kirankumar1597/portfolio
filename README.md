@@ -1,3 +1,39 @@
-# portfolio
+# Portfolio Website
 
-This portfolio website is built using Python with the Flask framework.
+## Project Overview
+This is a Flask-based portfolio website that showcases various projects and skills of the developer. It serves as a personal space to present work, share ideas, and connect with others.
+
+## Features
+- Responsive design
+- Contact form
+- Project showcase with images and descriptions
+- Blog section for sharing thoughts and articles
+
+## Tech Stack
+- **Front-end:** HTML5, CSS3, JavaScript, Bootstrap
+- **Back-end:** Flask, SQLAlchemy
+- **Database:** SQLite
+- **Hosting:** Heroku or any other cloud provider
+
+## Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kirankumar1597/portfolio.git
+   cd portfolio
+   ```
+2. Set up a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+To run the application locally, use the following command:
+```bash
+flask run
+```
+Visit `http://127.0.0.1:5000` in your web browser to view the portfolio website.
