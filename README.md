@@ -30,9 +30,3 @@ This is my Flask-based portfolio website repository, showcasing my projects and 
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage
-To run the application locally, use the following command:
-```bash
-flask run
-```
