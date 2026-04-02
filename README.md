@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ## Project Overview
-This is my Flask-based portfolio website repository that showcases various projects and skills of the developer. It serves as a personal space to present and update my works, share ideas, and connect with others.
+This is my Flask-based portfolio website repository, showcasing my projects and skills. It serves as a personal space to present and update my works, share ideas, and connect with others.
 
 ## Features
 - Responsive design
@@ -36,4 +36,3 @@ To run the application locally, use the following command:
 ```bash
 flask run
 ```
-Visit `http://127.0.0.1:5000` in your web browser to view the portfolio website.
